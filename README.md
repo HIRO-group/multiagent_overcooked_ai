@@ -58,7 +58,7 @@ conda activate overcooked_ai
 
 Clone the repo 
 ```
-git clone https://github.com/HumanCompatibleAI/overcooked_ai.git
+git clone https://github.com/HIRO-group/multiagent_overcooked_ai
 ```
 Finally, use python setup-tools to locally install
 
